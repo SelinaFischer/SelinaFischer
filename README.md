@@ -2,19 +2,21 @@
 
 ⭐️ *Driven by curiosity. Grounded in empathy. Energised by innovation.*
 
-🚀 **Seasoned Product Manager** with 8+ years of experience across B2B, B2C SaaS, eCommerce, PropertyTech and TravelTech.  
-💡 Brings a *problem-solving detective mindset* to uncover insights and deliver user-first, data-informed solutions.  
-🌱 Equipped with new skills in data analytics and AI, driven to create impactful solutions for sustainability and green technology.
+🚀 **Seasoned Product Manager** with 8+ years of experience across B2B/B2C SaaS, eCommerce, PropertyTech, and TravelTech.  
+💡 Brings a *problem-solving detective mindset* to uncover insights and craft user-first, data-informed solutions.  
+🌱 Recently upskilled in **data analytics and AI**, with a mission to drive innovation in **sustainability and green tech**.
+
 
 ---
 
 ## 🔍 About Me
 
--  Blending strategy, empathy, and execution to deliver **scalable, user-centric digital products**
--  Led B2B, B2C compliance platform launch from 0 to 1, accelerating innovation across SaaS products in travel, property, and eCommerce.
--  Obsessed with **continuous discovery**, data-led decisions, and stakeholder management
--  Trained in **Net Zero** and sustainable innovation – looking to apply this to **climate tech**
--  Background spans PropertyTech, Aviation, eCommerce, and TravelTech
+### 🔍 About Me  
+- Combines strategy, empathy, and execution to deliver scalable, user-centric digital products  
+- Led the launch of a B2B/B2C compliance platform, driving innovation across SaaS products in travel, property, and eCommerce  
+- Driven by continuous discovery, data-led decision-making, and strong stakeholder collaboration  
+- Formally trained in Net Zero and sustainable innovation – now seeking to apply this in **climate tech**
+- Cross-industry background includes PropertyTech, Aviation, eCommerce, and TravelTech
 
 ---
 
