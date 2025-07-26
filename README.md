@@ -33,7 +33,7 @@
 ## 📚 Learning & Side Projects
 
 - **Data Analytics Capstone Project: Climate Tipping Points** - How Renewables & Efficiency Cut CO₂ for a Greener Future:
-      Streamlit Dashboard: https://climatetippingpoints.streamlit.app/
+     <br> Streamlit Dashboard: https://climatetippingpoints.streamlit.app/
 - Additional Data Analytics Projects:
   - Online Retail Transaction Analysis (solo project)
   - The Patterns Behind Credit Card Churn (group project)
