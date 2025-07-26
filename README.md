@@ -9,7 +9,7 @@
 ## 🔍 About Me
 
 -  Blending strategy, empathy, and execution to deliver **scalable, user-centric digital products**
--  Shipped a B2B platform from **0 to 1** in the compliance space, and contributed to multiple B2B products across travel, property, and eCommerce
+-  Led B2B, B2C compliance platform launch from 0 to 1, accelerating innovation across SaaS products in travel, property, and eCommerce.
 -  Obsessed with **continuous discovery**, data-led decisions, and stakeholder alignment
 -  Trained in **Net Zero** and sustainable innovation – looking to apply this to **climate tech**
 -  Background spans PropertyTech, Aviation, eCommerce, and TravelTech
