@@ -32,11 +32,13 @@
 
 ## 📚 Learning & Side Projects
 
-- Climate Tipping Points - How Renewables & Efficiency Cut CO₂ for a Greener Future: https://github.com/SelinaFischer/climate_tipping_points and Streamlit Dashboard: https://climatetippingpoints.streamlit.app/
+- Climate Tipping Points - How Renewables & Efficiency Cut CO₂ for a Greener Future:
+  github: https://github.com/SelinaFischer/climate_tipping_points 
+  Streamlit Dashboard: https://climatetippingpoints.streamlit.app/
 - Online Retail Transaction Analysis:  https://github.com/SelinaFischer/Project-1-Online-Retail-Transaction-Analysis
-- Investigating The Patterns Behind Credit Card Churn: https://github.com/SelinaFischer/Hackathon2_Credit_Card_Churn_T5
-- Online Streaming Product Strategy: https://bit.ly/3HkkDoP
-- Sky Capstone Product Strategy: https://bit.ly/4mlYOFv
+- The Patterns Behind Credit Card Churn: https://github.com/SelinaFischer/Hackathon2_Credit_Card_Churn_T5
+- Online Streaming Product & Manangement Strategy: https://bit.ly/3HkkDoP
+- Sky Capstone ProductStrategy for Closed Caption: https://bit.ly/4mlYOFv
 - Built two Shopify eCommerce Platforms 
 
 ---
