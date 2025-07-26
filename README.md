@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Selina
 
+⭐️ *Driven by curiosity. Grounded in empathy. Energised by innovation.*
 🚀 **Seasoned Product Manager** with 8+ years of experience across B2B, B2C SaaS, eCommerce, PropertyTech and TravelTech.  
 💡 Brings a *problem-solving detective mindset* to uncover insights and deliver user-first, data-informed solutions.  
 🌱 Equipped with new skills in data analytics and AI, driven to create impactful solutions for sustainability and green technology.
@@ -47,9 +48,8 @@
 
 LinkedIn: https://www.linkedin.com/in/selinafischer8/
 
----
 
-⭐️ *Driven by curiosity. Grounded in empathy. Energised by innovation.*
+
 
 
 
