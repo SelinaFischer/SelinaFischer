@@ -8,11 +8,11 @@
 
 ## 🔍 About Me
 
-- 🧠 Blending strategy, empathy, and execution to deliver **scalable, user-centric digital products**
-- 🏗️ Shipped a B2B platform from **0 to 1** in the compliance space, and contributed to multiple B2B products across travel, property, and eCommerce
-- 🎯 Obsessed with **continuous discovery**, data-led decisions, and stakeholder alignment
-- ♻️ Trained in **Net Zero** and sustainable innovation – looking to apply this to **climate tech**
-- 🧰 Background spans PropertyTech, Aviation, eCommerce, and TravelTech
+-  Blending strategy, empathy, and execution to deliver **scalable, user-centric digital products**
+-  Shipped a B2B platform from **0 to 1** in the compliance space, and contributed to multiple B2B products across travel, property, and eCommerce
+-  Obsessed with **continuous discovery**, data-led decisions, and stakeholder alignment
+-  Trained in **Net Zero** and sustainable innovation – looking to apply this to **climate tech**
+-  Background spans PropertyTech, Aviation, eCommerce, and TravelTech
 
 ---
 
@@ -38,7 +38,7 @@
 - Online Retail Transaction Analysis:  https://github.com/SelinaFischer/Project-1-Online-Retail-Transaction-Analysis
 - The Patterns Behind Credit Card Churn: https://github.com/SelinaFischer/Hackathon2_Credit_Card_Churn_T5
 - Online Streaming Product & Manangement Strategy: https://bit.ly/3HkkDoP
-- Sky Capstone ProductStrategy for Closed Caption: https://bit.ly/4mlYOFv
+- Sky Capstone Product Strategy for Closed Caption: https://bit.ly/4mlYOFv
 - Built two Shopify eCommerce Platforms 
 
 ---
@@ -46,7 +46,6 @@
 ## 🌐 Let's Connect
 
 LinkedIn: https://www.linkedin.com/in/selinafischer8/
-📧 selinafishx@gmail.com
 
 ---
 
