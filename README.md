@@ -1,14 +1,10 @@
 # 👋 Hi, I'm Selina
 *Driven by curiosity. Grounded in empathy. Energised by innovation.*
 
-🚀 **Seasoned Product Manager** with 8+ years of experience across B2B/B2C SaaS, eCommerce, PropertyTech, and TravelTech.  
-💡 Brings a *problem-solving detective mindset* to uncover insights and craft user-first, data-informed solutions.  
-🌱 Recently upskilled in **data analytics and AI**, with a mission to drive innovation in **sustainability and green tech**.
-
-
+🚀 Seasoned Product Manager with 8+ years of experience across B2B/B2C SaaS, eCommerce, PropertyTech, and TravelTech.
+💡 Brings a problem-solving detective mindset to uncover insights and craft user-first, data-informed solutions.
+🌱 Recently upskilled in **data analytics and AI**, with a mission to drive innovation in sustainability and green tech.
 ---
-
-## 🔍 About Me
 
 ### 🔍 About Me  
 - Combines strategy, empathy, and execution to deliver scalable, user-centric digital products  
