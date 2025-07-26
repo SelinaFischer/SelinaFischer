@@ -38,7 +38,7 @@
   - Online Retail Transaction Analysis (solo project)
   - The Patterns Behind Credit Card Churn (group project)
 
-Product Management:
+Product Management Porjects:
 - Online Streaming Product & Manangement Strategy: https://bit.ly/3HkkDoP
 - Sky Capstone Product Strategy for Closed Caption: https://bit.ly/4mlYOFv
 - Hands-on experience developing Shopify eCommerce platforms from 0 to 1
