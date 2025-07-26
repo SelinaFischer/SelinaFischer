@@ -12,7 +12,7 @@
 
 -  Blending strategy, empathy, and execution to deliver **scalable, user-centric digital products**
 -  Led B2B, B2C compliance platform launch from 0 to 1, accelerating innovation across SaaS products in travel, property, and eCommerce.
--  Obsessed with **continuous discovery**, data-led decisions, and stakeholder alignment
+-  Obsessed with **continuous discovery**, data-led decisions, and stakeholder management
 -  Trained in **Net Zero** and sustainable innovation – looking to apply this to **climate tech**
 -  Background spans PropertyTech, Aviation, eCommerce, and TravelTech
 
