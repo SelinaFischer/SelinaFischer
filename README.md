@@ -25,10 +25,17 @@
 **Tech & Analytics**  
 `Python` • `Power BI` • `Tableau` • `Streamlit` • `Pandas` • `GitHub` • ``
 
-**Tools & Platforms**  
-`Jira` • `Confluence` • ``Figma` • `Miro` • `Salesforce` • `Google Analytics`
+**Product Management & Design**  
+Jira · Confluence · Aha! · Trello · Figma · Miro
+
+**Analytics & Marketing**  
+Google Analytics · Pendo · Salesforce · Hotjar · A/B Testing · Conversion Rate Optimisation (CRO)
+
+**Programming & Data Tools**  
+Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly · Jupyter Notebook · GitHub
 
 ---
+
 
 ## 📚 Learning & Side Projects
 
