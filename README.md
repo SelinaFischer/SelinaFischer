@@ -33,6 +33,7 @@
 ## 📚 Learning & Side Projects
 
 - **Data Analytics Capstone Project: Climate Tipping Points** - How Renewables & Efficiency Cut CO₂ for a Greener Future:
+- 
   github: https://github.com/SelinaFischer/climate_tipping_points 
   Streamlit Dashboard: https://climatetippingpoints.streamlit.app/
 - Online Retail Transaction Analysis:  https://github.com/SelinaFischer/Project-1-Online-Retail-Transaction-Analysis
