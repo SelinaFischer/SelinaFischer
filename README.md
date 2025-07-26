@@ -38,7 +38,7 @@
 - The Patterns Behind Credit Card Churn
 - Online Streaming Product & Manangement Strategy: https://bit.ly/3HkkDoP
 - Sky Capstone Product Strategy for Closed Caption: https://bit.ly/4mlYOFv
-- Hands-on experience developing two Shopify eCommerce platforms from 0 to 1
+- Hands-on experience developing Shopify eCommerce platforms from 0 to 1
 ---
 
 ## 🌐 Let's Connect
