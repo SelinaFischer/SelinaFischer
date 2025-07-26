@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Selina
-
-⭐️ *Driven by curiosity. Grounded in empathy. Energised by innovation.*
+*Driven by curiosity. Grounded in empathy. Energised by innovation.*
 
 🚀 **Seasoned Product Manager** with 8+ years of experience across B2B/B2C SaaS, eCommerce, PropertyTech, and TravelTech.  
 💡 Brings a *problem-solving detective mindset* to uncover insights and craft user-first, data-informed solutions.  
