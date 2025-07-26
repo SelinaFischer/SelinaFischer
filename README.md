@@ -33,11 +33,9 @@
 ## 📚 Learning & Side Projects
 
 - **Data Analytics Capstone Project: Climate Tipping Points** - How Renewables & Efficiency Cut CO₂ for a Greener Future:
-  
-  github: https://github.com/SelinaFischer/climate_tipping_points
   Streamlit Dashboard: https://climatetippingpoints.streamlit.app/
-- Online Retail Transaction Analysis:  https://github.com/SelinaFischer/Project-1-Online-Retail-Transaction-Analysis
-- The Patterns Behind Credit Card Churn: https://github.com/SelinaFischer/Hackathon2_Credit_Card_Churn_T5
+- Online Retail Transaction Analysis  
+- The Patterns Behind Credit Card Churn
 - Online Streaming Product & Manangement Strategy: https://bit.ly/3HkkDoP
 - Sky Capstone Product Strategy for Closed Caption: https://bit.ly/4mlYOFv
 - Hands-on experience developing two Shopify eCommerce platforms from 0 to 1
