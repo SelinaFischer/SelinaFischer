@@ -1,8 +1,5 @@
 
-<!-- Header -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SelinaFischer&label=Profile+Views" alt="profile views"/>
-</p>
+
 
 # 👋 Hi, I'm Selina! Welcome to my profile 
 
@@ -76,8 +73,4 @@ Python · Pandas · NumPy · Seaborn · Matplotlib · Plotly · Jupyter Notebook
 
 ---
 
-## 📈 GitHub Stats
-
-![Selina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelinaFischer&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelinaFischer&layout=compact)
 
