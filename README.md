@@ -27,7 +27,7 @@ Designed an interactive dashboard highlighting key tipping points in global deca
 
 ### 🛍️ Online Retail Transaction Analysis  
 Solo project exploring purchasing behaviours and seasonal sales trends using online retail data.  
-Performed feature engineering, EDA, and visualisation.
+Performed ETL, feature engineering, EDA, Hypothesis validation and visualisation.
 
 **Tools used**: Python (Pandas, NumPy, Seaborn) · Jupyter Notebook · GitHub
 
@@ -35,7 +35,7 @@ Performed feature engineering, EDA, and visualisation.
 
 ### 💳 The Patterns Behind Credit Card Churn  
 Group analytics project identifying churn drivers in the financial sector.  
-Used EDA to surface key insights for churn prediction and visual storytelling.
+Performed ETL pipline, used EDA to surface key insights for churn prediction and visual storytelling.
 
 **Tools used**: Python (Pandas, Matplotlib, Seaborn) · Jupyter Notebook · GitHub
 
