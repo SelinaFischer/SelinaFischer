@@ -71,7 +71,7 @@ Built and managed eCommerce site from 0 to 1, covering UX, content, marketing an
 ###  Product Management  
 Agile Methodology · MVPs · Product Discovery · Usability Testing · Backlog Management · Prioritisation · Roadmapping · Stakeholder & Team Collaboration
 
-###  Design & Collaboration  
+###  Design, Collaboration & Project Management  
 Jira · Confluence · Aha! · Trello · Canva · Figma · Miro
 
 ### 📈 Analytics & Marketing  
