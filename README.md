@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=SelinaFischer&label=Profile+Views" alt="profile views"/>
 </p>
 
-# 👋 Hi, I'm Selina! Welcome to my profile 🌿
+# 👋 Hi, I'm Selina! Welcome to my profile 
 
 🚀 **Seasoned Product Manager** | B2B/B2C SaaS | TravelTech · PropertyTech · eCommerce  
 Curious by nature, grounded in empathy, and energised by innovation.  
