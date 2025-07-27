@@ -16,12 +16,14 @@ With 8+ years of experience, I blend strategy, discovery, and execution to deliv
 ## 💻 Projects
 
 ### 🌍 Climate Tipping Points: *How Renewables & Efficiency Cut CO₂ for a Greener Future*  
-Capstone project using Python and Streamlit to explore global climate trends and renewable adoption.  
-Designed an interactive dashboard highlighting key tipping points in global decarbonisation.
+Capstone project using **Python** and **Streamlit** to explore global climate trends and renewable adoption.  
+Designed an interactive dashboard highlighting key tipping points in global decarbonisation through data analysis, statistical testing, and predictive modeling.
+
 
 🔗 [Live Dashboard](https://climatetippingpoints.streamlit.app/)
 
-**Tools used**: Python (Pandas, Plotly, Seaborn, Matplotlib) · Jupyter Notebook · Streamlit · GitHub
+**Tools used**:  
+Python (**Pandas**, **Plotly**, **Seaborn**, **Matplotlib**, **Scikit-learn**, **SciPy**) · Jupyter Notebook · Streamlit · GitHub
 
 ---
 
