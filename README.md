@@ -41,6 +41,21 @@ Used EDA to surface key insights for churn prediction and visual storytelling.
 
 ---
 
+### 🎯 Product Management & Strategy
+
+#### 🎬 Online Streaming Product & Market Strategy  
+Developed a growth strategy and product roadmap for a subscription-based streaming platform.  
+🔗 [View Strategy Deck](https://bit.ly/3HkkDoP)
+
+#### 📺 Capstone Project: Accessibility & Closed Captions Strategy  
+Defined product opportunities for enhancing accessibility through AI-powered closed caption features.  
+🔗 [View Case Study](https://bit.ly/4mlYOFv)
+
+#### 🛒 Shopify eCommerce Launch  
+Built and managed a niche eCommerce site from 0 to 1, covering UX, content, and product bundling strategy.
+
+---
+
 ## 📊 Skills & Tools
 
 ###  Product Management  
