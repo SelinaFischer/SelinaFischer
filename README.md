@@ -75,7 +75,7 @@ Roadmapping · Agile · MVPs · Product Discovery · Stakeholder Collaboration
 Jira · Confluence · Aha! · Trello · Canva · Figma · Miro
 
 ### 📈 Analytics & Marketing  
-Google Analytics · Pendo · Salesforce · Hotjar · A/B Testing · CRO
+Google Analytics · Pendo ·  Hotjar · A/B Testing · CRO (Conversion Rate Optimisation)
 
 ### 💻 Programming & Data Tools  
 Python · Pandas · NumPy · Seaborn · Matplotlib · Plotly · Scikit-learn · SciPy · Jupyter Notebook ·  GitHub · Streamlit · Tableau · PowerBI
