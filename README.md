@@ -74,14 +74,15 @@ Google Analytics · Pendo · Salesforce · Hotjar · A/B Testing · CRO
 ### 💻 Programming & Data Tools  
 Python · Pandas · NumPy · Seaborn · Matplotlib · Plotly · Scikit-learn · SciPy · Jupyter Notebook ·  GitHub · Streamlit · Tableau · PowerBI
 
-
 ---
 
 ## 📚 What I’m Learning
 
--  Applying data science to climate and green tech  
--  Building predictive models using AI/ML  
-- 📊 Improving dashboard UX and visual storytelling
+- Applying data analytics to solve real-world and business problems — from sustainability to customer insights  
+- Using data to improve product strategy, software development, and decision-making  
+- Building predictive models with AI/ML to uncover actionable patterns  
+- 📊 Enhancing dashboard UX and visual storytelling to drive clarity and engagement
+
 
 ---
 
