@@ -94,7 +94,10 @@ Python · Pandas · NumPy · Seaborn · Matplotlib · Plotly · Scikit-learn · 
 
 ## 🌍 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/selinafischer/)  
+I’m always open to new opportunities — whether it’s a product challenge, data-driven project, or meaningful collaboration.  
+Let’s connect and explore how we can work together.
+
+🔗 [LinkedIn – Selina Fischer](https://www.linkedin.com/in/selinafischer8/)
 
 
 ---
