@@ -69,7 +69,7 @@ Built and managed eCommerce site from 0 to 1, covering UX, content, marketing an
 ## 📊 Skills & Tools
 
 ###  Product Management  
-Roadmapping · Agile · MVPs · Product Discovery · Stakeholder Collaboration
+Agile Methodology · MVPs · Product Discovery · Usability Testing · Backlog Management · Prioritisation · Roadmapping · Stakeholder & Team Collaboration
 
 ###  Design & Collaboration  
 Jira · Confluence · Aha! · Trello · Canva · Figma · Miro
