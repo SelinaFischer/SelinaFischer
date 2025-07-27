@@ -57,8 +57,6 @@ Google Analytics · Pendo · Salesforce · Hotjar · A/B Testing · CRO
 ### 💻 Programming & Data Tools  
 Python · Pandas · NumPy · Seaborn · Matplotlib · Plotly · Jupyter Notebook · GitHub
 
-### 🛠️ Professional Tools  
-Slack · Notion · Zoom · Microsoft 365 · Google Workspace · Loom
 
 ---
 
