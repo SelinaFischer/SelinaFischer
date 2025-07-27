@@ -45,10 +45,10 @@ Used EDA to surface key insights for churn prediction and visual storytelling.
 
 ## 📊 Skills & Tools
 
-### 🧠 Product Management  
+###  Product Management  
 Roadmapping · Agile · MVPs · Product Discovery · Stakeholder Collaboration
 
-### 🎨 Design & Collaboration  
+###  Design & Collaboration  
 Jira · Confluence · Aha! · Trello · Figma · Miro
 
 ### 📈 Analytics & Marketing  
@@ -62,8 +62,8 @@ Python · Pandas · NumPy · Seaborn · Matplotlib · Plotly · Jupyter Notebook
 
 ## 📚 What I’m Learning
 
-- 🌱 Applying data science to climate and green tech  
-- 🧠 Building predictive models using AI/ML  
+-  Applying data science to climate and green tech  
+-  Building predictive models using AI/ML  
 - 📊 Improving dashboard UX and visual storytelling
 
 ---
@@ -71,7 +71,7 @@ Python · Pandas · NumPy · Seaborn · Matplotlib · Plotly · Jupyter Notebook
 ## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/selinafischer/)  
-📧 selinafischer@email.com
+
 
 ---
 
