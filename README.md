@@ -72,7 +72,7 @@ Jira · Confluence · Aha! · Trello · Figma · Miro
 Google Analytics · Pendo · Salesforce · Hotjar · A/B Testing · CRO
 
 ### 💻 Programming & Data Tools  
-Python · Pandas · NumPy · Seaborn · Matplotlib · Plotly · Scikit-learn · SciPy · Jupyter Notebook · Streamlit · GitHub · Tableau · PowerBI
+Python · Pandas · NumPy · Seaborn · Matplotlib · Plotly · Scikit-learn · SciPy · Jupyter Notebook ·  GitHub · Streamlit · Tableau · PowerBI
 
 
 ---
