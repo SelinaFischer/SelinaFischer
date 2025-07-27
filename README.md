@@ -72,7 +72,7 @@ Built and managed eCommerce site from 0 to 1, covering UX, content, marketing an
 Roadmapping · Agile · MVPs · Product Discovery · Stakeholder Collaboration
 
 ###  Design & Collaboration  
-Jira · Confluence · Aha! · Trello · Figma · Miro
+Jira · Confluence · Aha! · Trello · Canva · Figma · Miro
 
 ### 📈 Analytics & Marketing  
 Google Analytics · Pendo · Salesforce · Hotjar · A/B Testing · CRO
