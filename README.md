@@ -52,7 +52,7 @@ Defined product opportunities for enhancing accessibility through AI-powered clo
 🔗 [View Case Study](https://bit.ly/4mlYOFv)
 
 #### 🛒 Shopify eCommerce Launch  
-Built and managed a niche eCommerce site from 0 to 1, covering UX, content, and product bundling strategy.
+Built and managed eCommerce site from 0 to 1, covering UX, content, marketing and product bundling strategy.
 
 ---
 
