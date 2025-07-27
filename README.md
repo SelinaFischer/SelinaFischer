@@ -22,6 +22,8 @@ Designed an interactive dashboard highlighting key tipping points in global deca
 
 🔗 [Live Dashboard](https://climatetippingpoints.streamlit.app/)
 
+🔗 [GitHub Repository](https://github.com/SelinaFischer/climate_tipping_points)
+
 **Tools used**:  
 Python (**Pandas**, **NumPy**, **Plotly**, **Seaborn**, **Matplotlib**, **Scikit-learn**, **SciPy**) · Jupyter Notebook · Streamlit · GitHub
 
@@ -31,6 +33,8 @@ Python (**Pandas**, **NumPy**, **Plotly**, **Seaborn**, **Matplotlib**, **Scikit
 Solo project exploring purchasing behaviours and seasonal sales trends using online retail data.  
 Performed ETL, feature engineering, EDA, Hypothesis validation and visualisation.
 
+🔗 [GitHub Repository](https://github.com/SelinaFischer/Project-1-Online-Retail-Transaction-Analysis)
+
 **Tools used**: 
 Python (**Pandas**, **NumPy**, **Plotly**, **Seaborn**, **Matplotlib**, ) · Jupyter Notebook · GitHub
 
@@ -39,6 +43,8 @@ Python (**Pandas**, **NumPy**, **Plotly**, **Seaborn**, **Matplotlib**, ) · Jup
 ### 💳 The Patterns Behind Credit Card Churn  
 Group analytics project identifying churn drivers in the financial sector.  
 Performed ETL pipline, used EDA to surface key insights for churn prediction and visual storytelling.
+
+🔗 [GitHub Repository](https://github.com/SelinaFischer/Hackathon2_Credit_Card_Churn_T5)
 
 **Tools used**: 
 Python (**Pandas**, **NumPY**, **Matplotlib**, **Seaborn**) · PowerBI · Tableau ·  Jupyter Notebook · GitHub
