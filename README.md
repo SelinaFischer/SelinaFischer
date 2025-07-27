@@ -31,7 +31,8 @@ Python (**Pandas**, **NumPy**, **Plotly**, **Seaborn**, **Matplotlib**, **Scikit
 Solo project exploring purchasing behaviours and seasonal sales trends using online retail data.  
 Performed ETL, feature engineering, EDA, Hypothesis validation and visualisation.
 
-**Tools used**: Python (Pandas, NumPy, Seaborn) · Jupyter Notebook · GitHub
+**Tools used**: 
+Python (**Pandas**, **NumPy**, **Plotly**, **Seaborn**, **Matplotlib**, ) · Jupyter Notebook · GitHub
 
 ---
 
@@ -39,7 +40,8 @@ Performed ETL, feature engineering, EDA, Hypothesis validation and visualisation
 Group analytics project identifying churn drivers in the financial sector.  
 Performed ETL pipline, used EDA to surface key insights for churn prediction and visual storytelling.
 
-**Tools used**: Python (Pandas, Matplotlib, Seaborn) · Jupyter Notebook · GitHub
+**Tools used**: 
+Python (**Pandas**, **NumPY**, **Matplotlib**, **Seaborn**) · PowerBI · Tableau ·  Jupyter Notebook · GitHub
 
 ---
 
