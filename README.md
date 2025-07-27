@@ -41,8 +41,8 @@ Python (**Pandas**, **NumPy**, **Plotly**, **Seaborn**, **Matplotlib**, ) · Jup
 ---
 
 ### 💳 The Patterns Behind Credit Card Churn  
-Group analytics project identifying churn drivers in the financial sector.  
-Performed ETL pipline, used EDA to surface key insights for churn prediction and visual storytelling.
+Hackathon Group analytics project identifying churn drivers in the financial sector.  
+Performed ETL pipline, used EDA to surface key insights for churn prediction and used PowerBI & Tableau for visual storytelling.
 
 🔗 [GitHub Repository](https://github.com/SelinaFischer/Hackathon2_Credit_Card_Churn_T5)
 
