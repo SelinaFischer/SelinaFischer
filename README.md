@@ -1,66 +1,84 @@
-# 👋 Hi, I'm Selina  
-*Driven by curiosity. Grounded in empathy. Energised by innovation.*
 
-🚀 **Seasoned Product Manager** with 8+ years of experience across B2B/B2C SaaS, eCommerce, PropertyTech, and TravelTech.  
-💡 Brings a *problem-solving detective mindset* to uncover insights and craft user-first, data-informed solutions.  
-🌱 Recently upskilled in **data analytics and AI**, with a mission to drive innovation in **sustainability and green tech**.
+<!-- Header -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SelinaFischer&label=Profile+Views" alt="profile views"/>
+</p>
 
----
+# 👋 Hi, I'm Selina! Welcome to my profile 🌿
 
-### 🔍 About Me  
-- Combines strategy, empathy, and execution to deliver scalable, user-centric digital products  
-- Led the launch of a B2B/B2C compliance platform, driving innovation across SaaS products in travel, property, and eCommerce  
-- Driven by continuous discovery, data-led decision-making, and strong stakeholder collaboration  
-- Formally trained in Net Zero and sustainable innovation – now seeking to apply this in **climate tech**
-- Cross-industry background includes PropertyTech, Aviation, eCommerce, and TravelTech
+🚀 **Seasoned Product Manager** | B2B/B2C SaaS | TravelTech · PropertyTech · eCommerce  
+Curious by nature, grounded in empathy, and energised by innovation.  
+Bringing a *problem-solving detective mindset* to uncover insights and build user-first, data-informed products.  
+With 8+ years of experience, I blend strategy, discovery, and execution to deliver scalable digital solutions.
 
----
-
-## 🛠️ Key Skills & Tools
-
-**Product**  
-`Product Discovery` • `Agile Delivery` • `Backlog Prioritisation` • `Stakeholder Collaboration`  
-`Product Strategy` • `Usability Testing` • `Go-to-Market` • `Remote Team Alignment`
-
-**Tech & Analytics**  
-`Python` • `Power BI` • `Tableau` • `Streamlit` • `Pandas` • `GitHub` • ``
-
-**Product Management & Design**  
-Agile Methodology, Jira · Confluence · Aha! · Trello · Figma · Miro
-
-**Analytics & Marketing**  
-Google Analytics · Pendo · Salesforce · Hotjar · A/B Testing · Conversion Rate Optimisation (CRO)
-
-**Programming & Data Tools**  
-Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly · Jupyter Notebook · GitHub
+🌱 Recently upskilled in **data analytics and AI**, on a mission to drive sustainability-focused innovation in green tech.
 
 ---
 
+## 💻 Projects
 
-## 📚 Learning & Side Projects
+### 🌍 Climate Tipping Points: *How Renewables & Efficiency Cut CO₂ for a Greener Future*  
+Capstone project using Python and Streamlit to explore global climate trends and renewable adoption.  
+Designed an interactive dashboard highlighting key tipping points in global decarbonisation.
 
-- **Data Analytics Capstone Project: Climate Tipping Points** - How Renewables & Efficiency Cut CO₂ for a Greener Future:
-     <br> Streamlit Dashboard: https://climatetippingpoints.streamlit.app/
-- Additional Data Analytics Projects:
-  - Online Retail Transaction Analysis (solo project)
-  - The Patterns Behind Credit Card Churn (group project)
+🔗 [Live Dashboard](https://climatetippingpoints.streamlit.app/)
 
-Product Management Projects:
-- Online Streaming Product & Manangement Strategy: https://bit.ly/3HkkDoP
-- Sky Capstone Product Strategy for Closed Caption: https://bit.ly/4mlYOFv
-- Hands-on experience developing Shopify eCommerce platforms from 0 to 1
+**Tools used**: Python (Pandas, Plotly, Seaborn, Matplotlib) · Jupyter Notebook · Streamlit · GitHub
+
 ---
 
-## 🌐 Let's Connect
+### 🛍️ Online Retail Transaction Analysis  
+Solo project exploring purchasing behaviours and seasonal sales trends using online retail data.  
+Performed feature engineering, EDA, and visualisation.
 
-LinkedIn: https://www.linkedin.com/in/selinafischer8/
+**Tools used**: Python (Pandas, NumPy, Seaborn) · Jupyter Notebook · GitHub
 
+---
 
+### 💳 The Patterns Behind Credit Card Churn  
+Group analytics project identifying churn drivers in the financial sector.  
+Used EDA to surface key insights for churn prediction and visual storytelling.
 
+**Tools used**: Python (Pandas, Matplotlib, Seaborn) · Jupyter Notebook · GitHub
 
+---
 
+## 📊 Skills & Tools
 
+### 🧠 Product Management  
+Roadmapping · Agile · MVPs · Product Discovery · Stakeholder Collaboration
 
+### 🎨 Design & Collaboration  
+Jira · Confluence · Aha! · Trello · Figma · Miro
 
+### 📈 Analytics & Marketing  
+Google Analytics · Pendo · Salesforce · Hotjar · A/B Testing · CRO
 
+### 💻 Programming & Data Tools  
+Python · Pandas · NumPy · Seaborn · Matplotlib · Plotly · Jupyter Notebook · GitHub
+
+### 🛠️ Professional Tools  
+Slack · Notion · Zoom · Microsoft 365 · Google Workspace · Loom
+
+---
+
+## 📚 What I’m Learning
+
+- 🌱 Applying data science to climate and green tech  
+- 🧠 Building predictive models using AI/ML  
+- 📊 Improving dashboard UX and visual storytelling
+
+---
+
+## 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/selinafischer/)  
+📧 selinafischer@email.com
+
+---
+
+## 📈 GitHub Stats
+
+![Selina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelinaFischer&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelinaFischer&layout=compact)
 
