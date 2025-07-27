@@ -41,7 +41,7 @@ Performed ETL pipline, used EDA to surface key insights for churn prediction and
 
 ---
 
-### 🎯 Product Management & Strategy
+### Product Management & Strategy
 
 #### 🎬 Online Streaming Product & Market Strategy  
 Developed a growth strategy and product roadmap for a subscription-based streaming platform.  
