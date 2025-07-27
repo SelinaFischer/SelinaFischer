@@ -23,7 +23,7 @@ Designed an interactive dashboard highlighting key tipping points in global deca
 🔗 [Live Dashboard](https://climatetippingpoints.streamlit.app/)
 
 **Tools used**:  
-Python (**Pandas**, **Plotly**, **Seaborn**, **Matplotlib**, **Scikit-learn**, **SciPy**) · Jupyter Notebook · Streamlit · GitHub
+Python (**Pandas**, **NumPy**, **Plotly**, **Seaborn**, **Matplotlib**, **Scikit-learn**, **SciPy**) · Jupyter Notebook · Streamlit · GitHub
 
 ---
 
