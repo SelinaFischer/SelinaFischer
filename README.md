@@ -26,7 +26,7 @@
 `Python` • `Power BI` • `Tableau` • `Streamlit` • `Pandas` • `GitHub` • ``
 
 **Product Management & Design**  
-Jira · Confluence · Aha! · Trello · Figma · Miro
+Agile Methodology, Jira · Confluence · Aha! · Trello · Figma · Miro
 
 **Analytics & Marketing**  
 Google Analytics · Pendo · Salesforce · Hotjar · A/B Testing · Conversion Rate Optimisation (CRO)
