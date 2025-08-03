@@ -28,7 +28,7 @@ Python (**Pandas**, **NumPy**, **Plotly**, **Seaborn**, **Matplotlib**, **Scikit
 
 ---
 ### 🕵️‍♂️ Unmasking Hidden Cyber Threats: *Uncovering Malicious Activity through Data Analytics*  
-Hackathon Group analytics project using **Python** and **Streamlit** to analyze network and threat-intelligence data for anomaly detection and early response.  
+3-Day Hackathon Group analytics project using **Python** and **Streamlit** to analyze network and threat-intelligence data for anomaly detection and early response.  
 Built interactive streamlit dashboard to surface key intrusion patterns through exploratory analysis, statistical testing, and predictive modeling.  
 
 🔗 [Live Dashboard](https://cyberninjas.streamlit.app/)    
@@ -40,7 +40,7 @@ Python (**pandas**, **numpy**, **matplotlib**, **seaborn**, **plotly**, **featur
 ---
 
 ### 💳 The Patterns Behind Credit Card Churn  
-Hackathon Group analytics project identifying churn drivers in the financial sector.  
+3-Day Hackathon Group analytics project identifying churn drivers in the financial sector.  
 Performed ETL pipline, used EDA to surface key insights for churn prediction and used PowerBI & Tableau for visual storytelling.
 
 🔗 [GitHub Repository](https://github.com/SelinaFischer/Hackathon2_Credit_Card_Churn_T5)
