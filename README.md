@@ -31,7 +31,7 @@ Python (**Pandas**, **NumPy**, **Plotly**, **Seaborn**, **Matplotlib**, **Scikit
 Hackathon Group analytics project using **Python** and **Streamlit** to analyze network and threat-intelligence data for anomaly detection and early response.  
 Built interactive streamlit dashboard to surface key intrusion patterns through exploratory analysis, statistical testing, and predictive modeling.  
 
-🔗 [Live Demo](https://cyberninjas.streamlit.app/)    
+🔗 [Live Dashboard](https://cyberninjas.streamlit.app/)    
 🔗 [GitHub Repository](https://github.com/SelinaFischer/unmasking_hidden_cyber_threats_t5)  
 
 **Tools used**:  
