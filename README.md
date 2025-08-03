@@ -21,11 +21,32 @@ Designed an interactive dashboard highlighting key tipping points in global deca
 
 
 🔗 [Live Dashboard](https://climatetippingpoints.streamlit.app/)
-
 🔗 [GitHub Repository](https://github.com/SelinaFischer/climate_tipping_points)
 
 **Tools used**:  
 Python (**Pandas**, **NumPy**, **Plotly**, **Seaborn**, **Matplotlib**, **Scikit-learn**, **SciPy**) · Jupyter Notebook · Streamlit · GitHub
+
+---
+### 🕵️‍♂️ Detect Patterns Behind Cyber Threats: *Uncovering Malicious Activity through Data Analytics*  
+Hackathon Group analytics project using **Python** and **Streamlit** to analyze network and threat-intelligence data for anomaly detection and early response.  
+Built interactive streamlit dashboard to surface key intrusion patterns through exploratory analysis, statistical testing, and predictive modeling.  
+
+🔗 [Live Demo](https://cyberninjas.streamlit.app/)  
+🔗 [GitHub Repository](https://github.com/SelinaFischer/unmasking_hidden_cyber_threats_t5)  
+
+**Tools used**:  
+Python (**pandas**, **numpy**, **matplotlib**, **seaborn**, **plotly**, **feature-engine**, **scikit-learn**, **xgboost**) · Jupyter Notebook · Streamlit · streamlit-tree-select · GitHub  
+
+---
+
+### 💳 The Patterns Behind Credit Card Churn  
+Hackathon Group analytics project identifying churn drivers in the financial sector.  
+Performed ETL pipline, used EDA to surface key insights for churn prediction and used PowerBI & Tableau for visual storytelling.
+
+🔗 [GitHub Repository](https://github.com/SelinaFischer/Hackathon2_Credit_Card_Churn_T5)
+
+**Tools used**: 
+Python (**Pandas**, **NumPY**, **Matplotlib**, **Seaborn**) · PowerBI · Tableau ·  Jupyter Notebook · GitHub
 
 ---
 
@@ -38,16 +59,6 @@ Performed ETL, feature engineering, EDA, Hypothesis validation and visualisation
 **Tools used**: 
 Python (**Pandas**, **NumPy**, **Plotly**, **Seaborn**, **Matplotlib**, ) · Jupyter Notebook · GitHub
 
----
-
-### 💳 The Patterns Behind Credit Card Churn  
-Hackathon Group analytics project identifying churn drivers in the financial sector.  
-Performed ETL pipline, used EDA to surface key insights for churn prediction and used PowerBI & Tableau for visual storytelling.
-
-🔗 [GitHub Repository](https://github.com/SelinaFischer/Hackathon2_Credit_Card_Churn_T5)
-
-**Tools used**: 
-Python (**Pandas**, **NumPY**, **Matplotlib**, **Seaborn**) · PowerBI · Tableau ·  Jupyter Notebook · GitHub
 
 ---
 
