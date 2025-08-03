@@ -27,7 +27,7 @@ Designed an interactive dashboard highlighting key tipping points in global deca
 Python (**Pandas**, **NumPy**, **Plotly**, **Seaborn**, **Matplotlib**, **Scikit-learn**, **SciPy**) · Jupyter Notebook · Streamlit · GitHub
 
 ---
-### 🕵️‍♂️ Detect Patterns Behind Cyber Threats: *Uncovering Malicious Activity through Data Analytics*  
+### 🕵️‍♂️ Unmasking Hidden Cyber Threats: *Uncovering Malicious Activity through Data Analytics*  
 Hackathon Group analytics project using **Python** and **Streamlit** to analyze network and threat-intelligence data for anomaly detection and early response.  
 Built interactive streamlit dashboard to surface key intrusion patterns through exploratory analysis, statistical testing, and predictive modeling.  
 
@@ -35,7 +35,7 @@ Built interactive streamlit dashboard to surface key intrusion patterns through 
 🔗 [GitHub Repository](https://github.com/SelinaFischer/unmasking_hidden_cyber_threats_t5)  
 
 **Tools used**:  
-Python (**pandas**, **numpy**, **matplotlib**, **seaborn**, **plotly**, **feature-engine**, **scikit-learn**, **xgboost**) · Jupyter Notebook · Streamlit · streamlit-tree-select · GitHub  
+Python (**pandas**, **numpy**, **matplotlib**, **seaborn**, **plotly**, **feature-engine**, **scikit-learn**) · Jupyter Notebook · Streamlit · GitHub  
 
 ---
 
