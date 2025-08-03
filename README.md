@@ -53,12 +53,14 @@ Python (**Pandas**, **NumPY**, **Matplotlib**, **Seaborn**) · PowerBI · Tablea
 
 ### Product Management & Strategy
 
-#### 🎬 Online Streaming Product & Market Strategy  
+#### 🎬 Online Streaming Onboarding & Product Market Strategy  
+Delivered product strategy including MVP design, user research, onboarding flows, and GTM plan.
 Developed a growth strategy and product roadmap for a subscription-based streaming platform.  
 🔗 [View Strategy Deck](https://bit.ly/3HkkDoP)
 
-#### 📺 Capstone Project: Accessibility & Closed Captions Strategy  
-Defined product opportunities for enhancing accessibility through AI-powered closed caption features.  
+#### 📺 Sky Group Capstone Project: Accessibility & Closed Captions Strategy  
+Defined product opportunities for enhancing accessibility through AI-powered closed caption features.
+Delivered product strategy including MVP design and user research  
 🔗 [View Case Study](https://bit.ly/4mlYOFv)
 
 #### 🛒 Shopify eCommerce Launch  
