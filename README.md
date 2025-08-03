@@ -24,7 +24,7 @@ Designed an interactive dashboard highlighting key tipping points in global deca
 🔗 [GitHub Repository](https://github.com/SelinaFischer/climate_tipping_points)
 
 **Tools used**:  
-Python (**Pandas**, **NumPy**, **Plotly**, **Seaborn**, **Matplotlib**, **Scikit-learn**, **SciPy**) · Jupyter Notebook · Streamlit · GitHub
+Python (**Pandas**, **NumPy**, **Plotly**, **Seaborn**, **Matplotlib**, **Scikit-learn**, **SciPy**) · Jupyter Notebook · Streamlit · Streamlit tree select · GitHub
 
 ---
 ### 🕵️‍♂️ Unmasking Hidden Cyber Threats: *Uncovering Malicious Activity through Data Analytics*  
