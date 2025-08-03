@@ -62,7 +62,7 @@ Python (**Pandas**, **NumPy**, **Plotly**, **Seaborn**, **Matplotlib**, ) · Jup
 
 ---
 
-### Product Management & Strategy
+## Product Management & Strategy
 
 #### 🎬 Online Streaming Onboarding & Product Market Strategy  
 Delivered product strategy including MVP design, user research, onboarding flows, and GTM plan.  
