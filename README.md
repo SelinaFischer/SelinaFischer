@@ -104,9 +104,11 @@ Python · Pandas · NumPy · Seaborn · Matplotlib · Plotly · Scikit-learn · 
 
 ---
 
+
 ## 🚧 Upcoming Projects 
 🔍 Exploring real-world challenges with data analytics, AI/ML and interactive visualisations, where curiosity meets code. 
 More projects coming soon as I learn, experiment and solve meaningful problems. Stay tuned!
+
 
 ---
 
