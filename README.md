@@ -1,7 +1,7 @@
 
 
 
-# 👋 Hi, I'm Selina! Welcome to my profile 
+# 👋 Hi, I'm Selina! Welcome to my Profile 
 
 🚀 **Seasoned Product Manager** | B2B/B2C SaaS | PropertyTech · TravelTech · eCommerce  
 Curious by nature, grounded in empathy, and energised by innovation.  
