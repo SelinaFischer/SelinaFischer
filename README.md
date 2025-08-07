@@ -102,6 +102,11 @@ Python · Pandas · NumPy · Seaborn · Matplotlib · Plotly · Scikit-learn · 
 - Building predictive models with AI/ML to uncover actionable patterns  
 - 📊 Enhancing dashboard UX and visual storytelling to drive clarity and engagement
 
+---
+
+## 🚧 Upcoming Projects 
+🔍 Exploring real-world challenges with data analytics, AI/ML and interactive visualisations, where curiosity meets code. 
+More projects coming soon as I learn, experiment and solve meaningful problems. Stay tuned!
 
 ---
 
