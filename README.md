@@ -9,7 +9,7 @@ Curious by nature, grounded in empathy, and energised by innovation.
 Bringing a *problem-solving detective mindset* to uncover insights and build user-first, data-informed products.  
 With 8+ years of experience, I blend strategy, discovery, and execution to deliver scalable digital solutions.
 
-🌱 Recently completed an intensive **Data Analytics and AI + ML bootcamp**, with a passion to drive sustainability-focused innovation in green and climate tech.
+* Recently completed an intensive **Data Analytics and AI + ML bootcamp**, with a passion to drive sustainability-focused innovation in green and climate tech.
 
 ---
 
