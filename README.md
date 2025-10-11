@@ -64,10 +64,10 @@ Python (**Pandas**, **NumPy**, **Plotly**, **Seaborn**, **Matplotlib**, ) · Jup
 ### 📊 Product Sales Performance Analysis using PowerBI
 An analytical dashboard exploring product sales trends and performance across countries, providing clear, data-driven insights for business decisions.
 
-
-[🔗 **View Dashboard**](https://app.powerbi.com/groups/me/reports/01146052-06fe-4519-ae6b-2eec90aafd97/629bfbdeab36c56d8823?ctid=c233c072-135b-431d-af59-35e05babf941&experience=power-bi&bookmarkGuid=822b5c43-a1aa-402c-)
-
 [🔗 **View PDF Dashboard**](https://drive.google.com/file/d/15D5nmm-xLVU1Hk5byFWKf4I8ZFjnazaL/view?usp=sharing)
+
+
+
 ---
 
 ## Product Management & Strategy
