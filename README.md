@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I am Selina</h1>
-<h3 align="center">AI Integration Consultant | Strategist | Product Leader</h3>
+<h3 align="center">AI Adoption & Transformation Consultant | Strategist | Product Leader</h3>
 
 <p align="center">
  <i>Helping leaders, startups, and SMEs turn AI into ROI with clarity, solid foundations, and clear metrics.</i>
