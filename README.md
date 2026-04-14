@@ -25,13 +25,18 @@ I guide organisations from **uncertainty to confident execution**. I combine **2
 | 🗺️ Strategy & Roadmapping | 🏗️ Capability Building | 📈 ROI Analysis |
 | 🚦 Readiness Assessments | 🤝 Implementation Support | 🎯 Problem Definition |
 
+
 ## 👩‍💻 About Me
-My approach is shaped by deep experience in **Operations, QA, Data Analysis, and Product Management**. This depth allows me to diagnose issues, design clear strategies, and support confident AI adoption.
 
-* **Focus:** Practical execution, clear logic, and evidence-based decisions.
-* **Goal:** Using AI to strengthen operations and achieve measurable progress.
-* **Approach:** Using LLMs to create practical solutions and move from concept to execution with clarity.
+Background across Operations, QA, Data Analysis, and Product Management, bringing 20+ years of experience in understanding how systems and workflows operate in practice.
 
+Focus on diagnosing where performance is constrained, structuring problems clearly, and designing solutions that improve efficiency and support confident decision-making.
+
+Trained in AI consulting and leadership-led technology adoption, applying structured approaches to assess readiness, identify opportunities, and guide organisations through practical implementation.
+
+- **Focus:** Practical execution, clear logic, and evidence-based decisions  
+- **Goal:** Strengthen operations and deliver measurable progress through better use of data and AI  
+- **Approach:** Apply LLMs and data tools to move from problem definition to practical, usable solutions
 ---
 
 ### 🚀 Spotlight: AI-Assisted Development
