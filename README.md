@@ -42,8 +42,8 @@ Trained in AI consulting and leadership-led technology adoption, applying struct
 ### 🚀 Spotlight: AI-Assisted Development
 **[IntegroAI.tech](https://integroai.tech)**
 *Built from scratch in record time using an AI-first workflow.*
-> I practice what I preach. I leveraged **Claude 4.5 Sonnet** and **ChatGPT 5.1** for rapid code generation, **Canva** for design assets, and **GitHub** for deployment to launch a full platform in record time.
-* **Stack:** Claude 4.5 Sonnet, ChatGPT 5.1, Canva, HTML/CSS/JS, GitHub Pages.
+> I practice what I preach. I leveraged **Claude Sonnet** and **ChatGPT** for rapid code generation, **Canva** for design assets, and **GitHub** for deployment to launch a full platform in record time.
+* **Stack:** Claude Sonnet, ChatGPT , Canva, HTML/CSS/JS, GitHub Pages.
 
 ---
 
