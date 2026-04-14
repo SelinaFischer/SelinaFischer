@@ -88,7 +88,7 @@ Trained in AI consulting and leadership-led technology adoption, applying struct
 | **AI & Data Science** | Python, Pandas, NumPy, Scikit-learn, SciPy, Predictive Modeling |
 | **Visualization** | Streamlit, Tableau, PowerBI, Plotly, Seaborn, Matplotlib |
 | **Collaboration** | Jira, Confluence, Figma, Miro, Aha! |
-| **AI-Assisted Dev** | Claude , ChatGPT,  Prompt Engineering, Rapid Prototyping |
+| **AI-Assisted Dev** | Claude , ChatGPT,  Prompt Engineering, Rapid Prototyping, Lovable |
 
 ---
 
