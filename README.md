@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I am Selina</h1>
-<h3 align="center">AI Adoption & Transformation Consultant | Solutions Consultant | Product Leader | SaaS & Workflow Systems </h3>
+<h3 align="center">AI Adoption & Transformation Consultant | Solutions Consultant | Product Manager | SaaS & Workflow Systems </h3>
 
 <p align="center">
  <i>Product and technology professional with 20+ years’ experience delivering SaaS products and workflow solutions across complex, data-driven environments. Background in product management, now applying a consultative, solution-led approach to diagnosing operational challenges, structuring problems, and designing solutions that improve efficiency and support better decision-making.
