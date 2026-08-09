@@ -50,7 +50,7 @@
 Designed, built and deployed the IntegroAI website from business requirements through information architecture, user journeys, front‑end implementation, testing and launch.
 
 **Focus:** Product structure · User journeys · Rapid prototyping · Front‑end development · Deployment  
-**Tools:** Lovable · Claude · Claude Code · ChatGPT · HTML · CSS · JavaScript · GitHub Pages
+**Tools:** Lovable · Claude · Claude Code · ChatGPT · HTML · CSS · JavaScript · GitHub 
 
 ---
 
@@ -65,7 +65,7 @@ Designed and built an interactive assessment that evaluates organisational AI re
 - **Result:** A reusable assessment that surfaces operational bottlenecks and highlights where AI and automation can create value.
 
 **Focus:** Diagnostic design · User flow · Scoring logic · Testing · Iteration · Automated outputs  
-**Tools:** Claude Code · ChatGPT · JavaScript · EmailJS · HTML · CSS · GitHub Pages
+**Tools:** Claude Code · ChatGPT · JavaScript · EmailJS · HTML · CSS · GitHub
 
 ---
 
@@ -204,7 +204,7 @@ Developed a product and growth strategy for a subscription‑based streaming pla
     </tr>
     <tr>
       <td><strong>Platforms</strong></td>
-      <td>Claude Code · Codex · ChatGPT · OpenRouter · Lovable · Bolt · JavaScript · Supabase · APIs · GitHub Pages · n8n · Make.com</td>
+      <td>Claude Code · Codex · ChatGPT · OpenRouter · Lovable · Bolt · JavaScript · Supabase · APIs · GitHub · n8n · Make.com</td>
     </tr>
     <tr>
       <td><strong>Collaboration</strong></td>
