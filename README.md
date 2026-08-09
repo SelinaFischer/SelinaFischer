@@ -113,8 +113,8 @@ Trained in AI consulting and leadership‑led technology adoption, I use structu
 | **Strategy & Product** | Agile, MVP Design, Discovery, Roadmapping, Stakeholder Management |
 | **AI & Data Science** | Python, Pandas, NumPy, Scikit‑learn, SciPy, Predictive Modelling |
 | **Visualisation** | Streamlit, Tableau, Power BI, Plotly, Seaborn, Matplotlib |
-| **Collaboration** | Jira, Confluence, Figma, Miro, Aha! |
-| **AI‑Assisted Dev** | Claude Code, ChatGPT/Codex, Perplexity Computer, Lovable, Bolt AI, Make.com, Prompt Engineering, CustomGPT design, Rapid Prototyping |
+| **Collaboration** | Jira, Confluence, Figma, Miro|
+| **AI‑Assisted Dev** | Claude Code, ChatGPT/Codex, Perplexity Computer, Lovable, Bolt AI, HeyGen, ElevenLabs, Make.com, n8n, workflow automation, Prompt Engineering, CustomGPT design, Rapid Prototyping |
 
 ---
 
