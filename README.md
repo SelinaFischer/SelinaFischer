@@ -1,43 +1,20 @@
-<h1>Hi, I'm Selina</h1>
+# Hi, I'm Selina
 
-<h2>I turn complex operational problems into clear products, workflows and decisions using data and applied AI.</h2>
+## I turn messy business and customer problems into products, decisions and working solutions.
 
-<p>I work across product management, AI consulting and AI transformation, helping teams move from messy problems to working digital solutions.</p>
+My work spans product management, business operations, data and practical AI. I bring structure to ambiguous problems, identify where value can be created and turn that into prioritised opportunities, streamlined workflows and working digital solutions.
 
-<p>My work spans product management, business operations, data and practical AI. I bring structure to ambiguous problems, identify where value can be created, and turn that into prioritised opportunities, streamlined workflows and implemented solutions.</p>
-
-<p><strong>Product Strategy · Applied AI &amp; Data · Workflow Optimisation · Digital Build</strong></p>
+**Product Strategy · Data & Experimentation · AI Transformation · Digital Build**
 
 ---
 
 ## How I Work
 
-<table>
-  <thead>
-    <tr>
-      <th>Diagnose</th>
-      <th>Design &amp; Build</th>
-      <th>Measure &amp; Improve</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Business and workflow analysis</td>
-      <td>AI‑assisted solutions and prototypes</td>
-      <td>Operational performance and outcomes</td>
-    </tr>
-    <tr>
-      <td>Problem definition</td>
-      <td>LLM workflows and automation</td>
-      <td>Adoption, behaviour and value realised</td>
-    </tr>
-    <tr>
-      <td>AI readiness and opportunity map</td>
-      <td>Implementation with real teams</td>
-      <td>ROI, efficiency and decision quality</td>
-    </tr>
-  </tbody>
-</table>
+| Diagnose                          | Design & Build              | Measure & Improve      |
+| :-------------------------------- | :-------------------------- | :--------------------- |
+| Business & workflow analysis      | Solutions & prototypes      | Performance & outcomes |
+| Problem definition                | Workflow automation         | Testing & iteration    |
+| AI readiness & opportunity mapping | Implementation planning    | Value measurement      |
 
 ---
 
@@ -45,27 +22,29 @@
 
 ## IntegroAI.tech
 
-<p><a href="https://integroai.tech/">Visit IntegroAI.tech</a></p>
+[Visit IntegroAI.tech](https://integroai.tech/)
 
-Designed, built and deployed the IntegroAI website from business requirements through information architecture, user journeys, front‑end implementation, testing and launch.
+- **Problem:** Create a credible digital presence and clearly explain a complex AI advisory proposition.  
+- **Built:** Designed and developed the site from information architecture and user journeys through front‑end implementation, testing and deployment.  
+- **Result:** A working site and portfolio hub that anchors the AI Readiness Assessment and broader IntegroAI offering.
 
 **Focus:** Product structure · User journeys · Rapid prototyping · Front‑end development · Deployment  
-**Tools:** Lovable · Claude · Claude Code · ChatGPT · HTML · CSS · JavaScript · GitHub 
+**Tools:** Lovable · Claude · Claude Code · ChatGPT · HTML · CSS · JavaScript · GitHub Pages
 
 ---
 
 ## AI Readiness Assessment
 
-<p><a href="https://integroai.tech/assessment">Try the Assessment</a></p>
+[Try the Assessment](https://integroai.tech/assessment)
 
 Designed and built an interactive assessment that evaluates organisational AI readiness through structured questions, scoring logic and automated results.
 
 - **Problem:** Give leaders a clear starting point for AI without jumping straight into tools.  
-- **Method:** Question design, scoring model, automated outputs and iterative testing with real scenarios.  
+- **Method:** Question design, scoring model, automated outputs and iterative testing with realistic scenarios.  
 - **Result:** A reusable assessment that surfaces operational bottlenecks and highlights where AI and automation can create value.
 
 **Focus:** Diagnostic design · User flow · Scoring logic · Testing · Iteration · Automated outputs  
-**Tools:** Claude Code · ChatGPT · JavaScript · EmailJS · HTML · CSS · GitHub
+**Tools:** Claude Code · ChatGPT · JavaScript · EmailJS · HTML · CSS · GitHub Pages
 
 ---
 
@@ -90,9 +69,9 @@ The work covers product discovery, workflow analysis, requirements definition, p
 
 Explored renewable‑energy adoption trends using statistical testing, predictive modelling and interactive visualisation.
 
-- **Problem:** Understand where renewable adoption is accelerating or stalling across regions.  
-- **Method:** Time‑series analysis, hypothesis testing and predictive models in Python and Scikit‑learn.  
-- **Result:** Highlighted patterns in adoption rates and scenarios where progress slows, helping frame where further investigation or action is needed.
+- **Problem:** Understand how renewable adoption is changing over time across different regions.  
+- **Method:** Data preparation, exploratory analysis and simple predictive models in Python and Scikit‑learn.  
+- **Result:** Highlighted differences in adoption trajectories that can inform where further investigation or action is needed.
 
 **Tools:** Python · Pandas · NumPy · Scikit‑learn · Streamlit · Plotly  
 
@@ -106,9 +85,9 @@ Explored renewable‑energy adoption trends using statistical testing, predictiv
 
 Analysed network and threat‑intelligence data to identify unusual patterns using exploratory analysis and anomaly‑detection techniques.
 
-- **Problem:** Surface suspicious activity in noisy network data.  
-- **Method:** Feature engineering, exploratory analysis and anomaly‑detection models in Python.  
-- **Result:** Exposed traffic patterns and events worth deeper investigation, supporting earlier detection of potential threats.
+- **Problem:** Surface suspicious activity in noisy network and threat‑intelligence data.  
+- **Method:** Feature engineering, exploratory analysis and anomaly‑detection approaches in Python.  
+- **Result:** Surfaced patterns and events that warrant deeper investigation, supporting earlier detection of potential threats.
 
 **Tools:** Python · Pandas · Scikit‑learn · Streamlit  
 
@@ -122,9 +101,9 @@ Analysed network and threat‑intelligence data to identify unusual patterns usi
 
 Analysed customer data to investigate behavioural patterns associated with churn and present findings for business stakeholders.
 
-- **Problem:** Understand which customers are most at risk of churn and why.  
-- **Method:** Data cleaning, feature exploration and modelling with visual storytelling in BI tools.  
-- **Result:** Identified behaviour patterns and segments with higher churn risk to inform retention and targeting strategies.
+- **Problem:** Understand which customers are most at risk of churn and what behaviours are associated with that risk.  
+- **Method:** Data cleaning, exploratory analysis and modelling with visual storytelling in BI tools.  
+- **Result:** Identified behavioural patterns and segments with higher churn risk to inform retention and targeting ideas.
 
 **Tools:** Python · Pandas · Power BI · Tableau  
 
@@ -137,8 +116,8 @@ Analysed customer data to investigate behavioural patterns associated with churn
 Analysed e‑commerce transaction data to identify purchasing behaviour, sales patterns and operational trends.
 
 - **Problem:** Get a clearer view of buying patterns and operational pressure points in an online retail dataset.  
-- **Method:** Cohort and basket analysis, basic segmentation and visual exploration in Python.  
-- **Result:** Surfaced product and timing patterns that can inform promotions, stock planning and experience improvements.
+- **Method:** Data preparation and exploratory analysis of transactions and product performance in Python.  
+- **Result:** Surfaced timing and product patterns that can inform promotions, stock planning and experience improvements.
 
 **Tools:** Python · Pandas · Data visualisation  
 
@@ -178,47 +157,17 @@ Developed a product and growth strategy for a subscription‑based streaming pla
 
 # Skills & Tools
 
-<table>
-  <thead>
-    <tr>
-      <th>Domain</th>
-      <th>Capabilities &amp; Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Product &amp; Strategy</strong></td>
-      <td>Discovery · Problem definition · Product strategy · Prioritisation · Roadmapping · MVP · Agile delivery · UAT</td>
-    </tr>
-    <tr>
-      <td><strong>Data &amp; Experimentation</strong></td>
-      <td>Python · Pandas · NumPy · Scikit‑learn · Hypothesis testing · Predictive modelling · Power BI · Tableau · Streamlit</td>
-    </tr>
-    <tr>
-      <td><strong>AI &amp; Transformation</strong></td>
-      <td>Workflow analysis · Opportunity mapping · AI readiness · Implementation planning · Human‑in‑the‑loop design · Automation · Value measurement</td>
-    </tr>
-    <tr>
-      <td><strong>Applied AI &amp; Build</strong></td>
-      <td>LLM workflows · AI‑assisted development · prompt engineering · custom GPTs · agentic workflows · rapid prototyping · workflow automation</td>
-    </tr>
-    <tr>
-      <td><strong>Platforms</strong></td>
-      <td>Claude Code · Codex · ChatGPT · OpenRouter · Lovable · Bolt · JavaScript · Supabase · APIs · GitHub · n8n · Make.com</td>
-    </tr>
-    <tr>
-      <td><strong>Collaboration</strong></td>
-      <td>Jira · Confluence · Figma · Miro</td>
-    </tr>
-  </tbody>
-</table>
+| **Domain**              | **Capabilities & Tools** |
+| :---------------------- | :----------------------- |
+| **Product & Strategy**  | Discovery · Problem definition · Product strategy · Prioritisation · Roadmapping · MVP · Agile delivery · UAT |
+| **Data & Experimentation** | Python · Pandas · NumPy · Scikit‑learn · Hypothesis testing · Predictive modelling · Power BI · Tableau · Streamlit |
+| **AI & Transformation** | Workflow analysis · Opportunity mapping · AI readiness · Implementation planning · Human‑in‑the‑loop design · Value measurement |
+| **Applied AI & Build**  | LLM workflows · AI‑assisted development · prompt engineering · custom GPTs · agentic workflows · rapid prototyping · workflow automation |
+| **Platforms**           | Claude Code · Codex · ChatGPT · OpenRouter · Lovable · Bolt · JavaScript · Supabase · APIs · GitHub Pages · n8n · Make.com |
+| **Collaboration**       | Jira · Confluence · Figma · Miro |
 
 ---
 
 # Connect
 
-<p>
-  <a href="https://linkedin.com/in/selinafischer-ai">LinkedIn</a> ·
-  <a href="https://integroai.tech/">IntegroAI</a> ·
-  <a href="https://github.com/SelinaFischer">GitHub</a>
-</p>
+[LinkedIn](https://linkedin.com/in/selinafischer-ai) · [IntegroAI](https://integroai.tech/) · [GitHub](https://github.com/SelinaFischer)
