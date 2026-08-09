@@ -29,7 +29,7 @@ My work spans product management, business operations, data and practical AI. I 
 - **Result:** A live, responsive website that communicates the proposition clearly and provides the foundation for interactive tools, including the AI Readiness Assessment.
 
 **Focus:** Product structure · User journeys · Rapid prototyping · Front‑end development · Deployment  
-**Tools:** Lovable · Claude · Claude Code · ChatGPT · HTML · CSS · JavaScript · GitHub Pages
+**Tools:** Lovable · Claude · Claude Code · ChatGPT · HTML · CSS · JavaScript · GitHub 
 
 ---
 
@@ -42,7 +42,7 @@ My work spans product management, business operations, data and practical AI. I 
 - **Result:** A reusable diagnostic that surfaces operational bottlenecks and identifies where AI and automation may create business value.
 
 **Focus:** Diagnostic design · User flow · Scoring logic · Testing · Iteration · Automated outputs  
-**Tools:** Claude Code · ChatGPT · JavaScript · EmailJS · HTML · CSS · GitHub Pages
+**Tools:** Claude Code · ChatGPT · JavaScript · EmailJS · HTML · CSS · GitHub 
 
 ---
 
