@@ -18,9 +18,9 @@ My work spans product management, business operations, data and practical AI. I 
 
 ---
 
-# Selected Builds
+## Selected Builds
 
-## IntegroAI.tech
+### IntegroAI.tech
 
 [Visit IntegroAI.tech](https://integroai.tech/)
 
@@ -28,12 +28,13 @@ My work spans product management, business operations, data and practical AI. I 
 - **Built:** Designed and developed the site from information architecture and user journeys through front‑end implementation, testing and deployment.  
 - **Result:** A live, responsive website that communicates the proposition clearly and provides the foundation for interactive tools, including the AI Readiness Assessment.
 
-**Focus:** Product structure · User journeys · Rapid prototyping · Front‑end development · Deployment  
-**Tools:** Lovable · Claude · Claude Code · ChatGPT · HTML · CSS · JavaScript · GitHub 
+**Focus:** Product structure · User journeys · Rapid prototyping · Front‑end development · Deployment
+
+**Tools:** Lovable · Claude · Claude Code · ChatGPT · HTML · CSS · JavaScript · GitHub Pages
 
 ---
 
-## AI Readiness Assessment
+### AI Readiness Assessment
 
 [Try the Assessment](https://integroai.tech/assessment)
 
@@ -41,12 +42,13 @@ My work spans product management, business operations, data and practical AI. I 
 - **Method:** Designed the questions, scoring model, user flow and automated outputs, then tested and refined the assessment using realistic scenarios.  
 - **Result:** A reusable diagnostic that surfaces operational bottlenecks and identifies where AI and automation may create business value.
 
-**Focus:** Diagnostic design · User flow · Scoring logic · Testing · Iteration · Automated outputs  
-**Tools:** Claude Code · ChatGPT · JavaScript · EmailJS · HTML · CSS · GitHub 
+**Focus:** Diagnostic design · User flow · Scoring logic · Testing · Iteration · Automated outputs
+
+**Tools:** Claude Code · ChatGPT · JavaScript · EmailJS · HTML · CSS · GitHub Pages
 
 ---
 
-## HostIntel
+### HostIntel
 
 **Product in development**
 
@@ -54,14 +56,15 @@ My work spans product management, business operations, data and practical AI. I 
 - **Approach:** Use product discovery, workflow analysis and user feedback to identify priority problems and translate them into testable product features.  
 - **Current work:** Building and iterating the product through requirements definition, prototyping and hands‑on development.
 
-**Focus:** 0‑to‑1 product development · Workflow analysis · Product discovery · Requirements · Prototyping · Human decision points  
+**Focus:** 0‑to‑1 product development · Workflow analysis · Product discovery · Requirements · Prototyping · Human decision points
+
 **Tools:** Claude Code · ChatGPT · Perplexity · LLMs · OpenRouter · Supabase · APIs · Workflow automation · GitHub
 
 ---
 
-# Data, Analytics & Machine Learning
+## Data, Analytics & Machine Learning
 
-## Climate Tipping Points
+### Climate Tipping Points
 
 **Predictive modelling and visualisation**
 
@@ -71,13 +74,13 @@ Explored renewable‑energy adoption trends using statistical testing, predictiv
 - **Method:** Data preparation, exploratory analysis and predictive models in Python and Scikit‑learn.  
 - **Result:** Surfaced differences in adoption trajectories that can guide where further investigation or action may be needed.
 
-**Tools:** Python · Pandas · NumPy · Scikit‑learn · Streamlit · Plotly  
+**Tools:** Python · Pandas · NumPy · Scikit‑learn · Streamlit · Plotly
 
 [Live Dashboard](https://climatetippingpoints.streamlit.app/) | [View Code](https://github.com/SelinaFischer/climate_tipping_points)
 
 ---
 
-## Unmasking Cyber Threats
+### Unmasking Cyber Threats
 
 **Anomaly detection · Code Institute hackathon**
 
@@ -87,13 +90,13 @@ Analysed network and threat‑intelligence data to identify unusual patterns usi
 - **Method:** Feature engineering, exploratory analysis and anomaly‑detection approaches in Python.  
 - **Result:** Highlighted patterns and events that warrant deeper investigation in a security context.
 
-**Tools:** Python · Pandas · Scikit‑learn · Streamlit  
+**Tools:** Python · Pandas · Scikit‑learn · Streamlit
 
 [Live Dashboard](https://cyberninjas.streamlit.app/) | [View Code](https://github.com/SelinaFischer/unmasking_hidden_cyber_threats_t5)
 
 ---
 
-## Predicting Credit Card Churn
+### Predicting Credit Card Churn
 
 **Customer behaviour and churn analysis · Code Institute hackathon**
 
@@ -103,13 +106,13 @@ Analysed customer data to investigate behavioural patterns associated with churn
 - **Method:** Data cleaning, exploratory analysis and modelling with visual storytelling in BI tools.  
 - **Result:** Revealed behaviour patterns and groups with higher apparent churn risk to inform potential retention and targeting strategies.
 
-**Tools:** Python · Pandas · Power BI · Tableau  
+**Tools:** Python · Pandas · Power BI · Tableau
 
 [View Code](https://github.com/SelinaFischer/Hackathon2_Credit_Card_Churn_T5)
 
 ---
 
-## Online Retail Transaction Analysis
+### Online Retail Transaction Analysis
 
 Analysed e‑commerce transaction data to identify purchasing behaviour, sales patterns and operational trends.
 
@@ -117,43 +120,43 @@ Analysed e‑commerce transaction data to identify purchasing behaviour, sales p
 - **Method:** Data preparation and exploratory analysis of transactions and product performance in Python.  
 - **Result:** Highlighted product and timing patterns that can inform promotions, stock planning and experience improvements.
 
-**Tools:** Python · Pandas · Data visualisation  
+**Tools:** Python · Pandas · Data visualisation
 
 [View Code](https://github.com/SelinaFischer/Project-1-Online-Retail-Transaction-Analysis)
 
 ---
 
-# Product Strategy & Practice
+## Product Strategy & Practice
 
 My product experience spans B2B data products, APIs, SaaS platforms, customer journeys, e‑commerce and regulated technology, covering discovery, prioritisation, roadmap ownership, delivery and post‑launch improvement.
 
-## King’s College London Product Management & Strategy Accelerator
+### King’s College London Product Management & Strategy Accelerator
 
 Completed the King’s College London Product Management & Strategy Accelerator, covering the product lifecycle from discovery and customer research through product strategy, prioritisation, MVP definition, delivery, measurement, go‑to‑market and growth.
 
 The programme concluded with a real‑world Sky capstone, applying the methods and frameworks in practice.
 
-### Sky Accessibility Capstone
+#### Sky Accessibility Capstone
 
 Worked on a product challenge focused on improving the closed‑caption experience for Sky customers.
 
-**Focus:** User research · Problem definition · Accessibility · Market analysis · Prioritisation · Product strategy  
+**Focus:** User research · Problem definition · Accessibility · Market analysis · Prioritisation · Product strategy
 
 [View Case Study](https://bit.ly/4mlYOFv)
 
 ---
 
-## Online Streaming Product Strategy
+### Online Streaming Product Strategy
 
 Developed a product and growth strategy for a subscription‑based streaming platform.
 
-**Focus:** Customer analysis · Value proposition · MVP · Onboarding · Product roadmap · Go‑to‑market · Retention  
+**Focus:** Customer analysis · Value proposition · MVP · Onboarding · Product roadmap · Go‑to‑market · Retention
 
 [View Strategy Deck](https://bit.ly/3HkkDoP)
 
 ---
 
-# Skills & Tools
+## Skills & Tools
 
 | **Domain**              | **Capabilities & Tools** |
 | :---------------------- | :----------------------- |
@@ -166,6 +169,6 @@ Developed a product and growth strategy for a subscription‑based streaming pla
 
 ---
 
-# Connect
+## Connect
 
-[LinkedIn](https://linkedin.com/in/selinafischer-ai) · [IntegroAI](https://integroai.tech/) · [GitHub](https://github.com/SelinaFischer)
+[LinkedIn](https://linkedin.com/in/selinafischer-ai) · [IntegroAI](https://integroai.tech/)
