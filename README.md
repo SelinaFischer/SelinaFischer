@@ -30,7 +30,7 @@ My work spans product management, business operations, data and practical AI. I 
 
 **Focus:** Product structure · User journeys · Rapid prototyping · Front‑end development · Deployment
 
-**Tools:** Lovable · Claude · Claude Code · ChatGPT · HTML · CSS · JavaScript · GitHub Pages
+**Tools:** Lovable · Claude · Claude Code · ChatGPT · HTML · CSS · JavaScript · GitHub 
 
 ---
 
@@ -44,7 +44,7 @@ My work spans product management, business operations, data and practical AI. I 
 
 **Focus:** Diagnostic design · User flow · Scoring logic · Testing · Iteration · Automated outputs
 
-**Tools:** Claude Code · ChatGPT · JavaScript · EmailJS · HTML · CSS · GitHub Pages
+**Tools:** Claude Code · ChatGPT · JavaScript · EmailJS · HTML · CSS · GitHub 
 
 ---
 
