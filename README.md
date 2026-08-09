@@ -31,15 +31,15 @@ I guide organisations from <b>uncertainty to confident execution</b>. I combine 
 
 ## 👩‍💻 About Me
 
-My background spans operations, data analysis and product management, so I understand how real‑world workflows actually run and where they break.
+My career has been split between operations, data and product management, with a constant focus on how teams actually work and where time is lost.
 
 I focus on diagnosing where performance is constrained, structuring problems clearly, and designing solutions that improve efficiency and support confident decision‑making.
 
-Trained in AI consulting and leadership‑led technology adoption, I use structured approaches to assess readiness, identify opportunities, and guide organisations through practical implementation.
+Trained in AI consulting and leadership‑led technology adoption, I use structured approaches to assess readiness, map business value, and guide organisations through practical implementation.
 
 - **Focus:** Practical execution, clear logic, and evidence‑based decisions  
 - **Goal:** Strengthen operations and deliver measurable progress through better use of data and AI  
-- **Approach:** Apply LLMs and data tools to move from problem definition to practical, usable solutions  
+- **Approach:** Apply LLMs, prompt engineering, CustomGPTs and data tools to move from problem definition to practical, usable solutions
 
 ---
 
