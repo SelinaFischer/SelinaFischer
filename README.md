@@ -45,12 +45,12 @@ Trained in AI consulting and leadership‑led technology adoption, I use structu
 
 ### 🚀 Spotlight: AI‑Assisted Development
 
-**[IntegroAI.tech](https://integroai.tech)**  
-*Built from scratch in record time using an AI‑first workflow.*
+**[IntegroAI.tech](https://integroai.tech/)**  
+*Built using an AI‑first workflow.*
 
-> I practice what I preach. I leveraged **Claude Code**, **ChatGPT/Codex**, **Perplexity Computer**, **Lovable** and **Bolt AI** for rapid code and content generation, **Canva** for design assets, and **GitHub** for deployment to launch a full platform in record time.
+> I practice what I preach. I used **Lovable**, **Claude**, **Claude Code** and **ChatGPT** for rapid code, copy and image generation, and GitHub for deployment, to get a working site and AI Readiness Assessment online quickly.[cite:43]
 
-* **Stack:** Claude Code, ChatGPT/Codex, Perplexity Computer, Lovable, Bolt AI, Make.com, Canva, HTML/CSS/JS, GitHub Pages
+* **Stack:** Lovable, Claude, Claude Code, ChatGPT, HTML/CSS/JS, GitHub Pages, Canva
 
 ---
 
