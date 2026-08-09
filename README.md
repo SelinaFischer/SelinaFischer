@@ -2,7 +2,7 @@
 <h3 align="center">AI Business & Operations Advisor | Product Manager | AI Adoption & Transformation</h3>
 
 <p align="center">
- <i>Product and technology professional with 20+ years’ experience delivering SaaS products and workflow solutions across complex, data‑driven environments. Background in product management, now applying a consultative, solution‑led approach to diagnosing operational challenges, structuring problems, and designing solutions that improve efficiency and support better decision‑making.</i>
+ <i>Product and technology professional with 20+ years’ experience delivering SaaS products and workflow solutions across complex, data‑driven environments. I now work as an AI Business & Operations Advisor and Product Manager through IntegroAI, using an AI Readiness Assessment to help founder‑led service businesses identify workflow bottlenecks, prioritise opportunities with business value mapping, and design practical AI‑assisted solutions.</i>
 </p>
 
 <p align="center">
