@@ -2,7 +2,7 @@
 
 ## I turn messy business and customer problems into products, decisions and working solutions.
 
-My work spans product management, business operations, data and practical AI. I bring structure to ambiguous problems, identify the opportunities worth pursuing and turn them into clear priorities, streamlined workflows and working digital solutions.
+My work spans product management, business operations, data and practical AI. I bring structure to ambiguous problems, identify the opportunities worth pursuing and turn them into clear priorities, stronger workflows and working digital solutions.
 
 **Product Strategy · Data & Experimentation · AI Transformation · Digital Build**
 
@@ -26,7 +26,7 @@ My work spans product management, business operations, data and practical AI. I 
 
 - **Problem:** Translate a complex AI advisory proposition into a clear, usable digital experience.  
 - **Built:** Designed and developed the site from information architecture and user journeys through front‑end implementation, testing and deployment.  
-- **Result:** A live, responsive website that communicates the proposition clearly and provides the foundation for interactive tools, including the AI Readiness Assessment.
+- **Result:** A live, responsive website that communicates the proposition clearly and supports interactive tools, including the AI Readiness Assessment.
 
 **Focus:** Product structure · User journeys · Rapid prototyping · Front‑end development · Deployment
 
