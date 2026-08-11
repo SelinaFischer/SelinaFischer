@@ -17,7 +17,18 @@ My work spans product management, business operations, data and practical AI. I 
 | AI readiness & opportunity mapping | Implementation planning  | Value measurement      |
 
 ---
+## Skills & Tools
 
+| **Domain**              | **Capabilities & Tools** |
+| :---------------------- | :----------------------- |
+| **Product & Strategy**  | Discovery · Problem Definition · Product Strategy · Prioritisation · Roadmapping · MVP · Agile Delivery · UAT |
+| **Data & Experimentation** | Python · Pandas · NumPy · Scikit‑learn · Hypothesis Testing · Predictive Modelling · Power BI · Tableau · Streamlit |
+| **AI & Transformation** | Workflow Analysis · Opportunity Mapping · AI Readiness · Implementation Planning · Human‑in‑the‑loop Design · Value Measurement |
+| **AI & Digital Build**  | LLM Workflows · AI‑Assisted Development · Prompt Engineering · Custom GPTs · Agentic Workflows · Rapid Prototyping · Workflow Automation |
+| **Platforms**           | Claude Code · Codex · ChatGPT · Perplexity · OpenRouter · Lovable · Bolt · JavaScript · Supabase · APIs · GitHub · n8n · Make.com |
+| **Collaboration**       | Jira · Confluence · Figma · Miro |
+
+---
 ## Selected Builds
 
 ### IntegroAI.tech
@@ -153,19 +164,6 @@ Developed a product and growth strategy for a subscription‑based streaming pla
 **Focus:** Customer analysis · Value proposition · MVP · Onboarding · Product roadmap · Go‑to‑market · Retention
 
 [View Strategy Deck](https://bit.ly/3HkkDoP)
-
----
-
-## Skills & Tools
-
-| **Domain**              | **Capabilities & Tools** |
-| :---------------------- | :----------------------- |
-| **Product & Strategy**  | Discovery · Problem Definition · Product Strategy · Prioritisation · Roadmapping · MVP · Agile Delivery · UAT |
-| **Data & Experimentation** | Python · Pandas · NumPy · Scikit‑learn · Hypothesis Testing · Predictive Modelling · Power BI · Tableau · Streamlit |
-| **AI & Transformation** | Workflow Analysis · Opportunity Mapping · AI Readiness · Implementation Planning · Human‑in‑the‑loop Design · Value Measurement |
-| **AI & Digital Build**  | LLM Workflows · AI‑Assisted Development · Prompt Engineering · Custom GPTs · Agentic Workflows · Rapid Prototyping · Workflow Automation |
-| **Platforms**           | Claude Code · Codex · ChatGPT · Perplexity · OpenRouter · Lovable · Bolt · JavaScript · Supabase · APIs · GitHub · n8n · Make.com |
-| **Collaboration**       | Jira · Confluence · Figma · Miro |
 
 ---
 
